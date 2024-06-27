@@ -10,7 +10,7 @@
   "author": "edgarmatt",
   "license": "ISC",
   "dependencies": {
-    "whatsapp_broadcast_bot": "^1.0.0"
+    "whatsapp_broadcast_bot": "^1.0.1"
   },
   "repository": {
     "type": "git",
